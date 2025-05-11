@@ -12,6 +12,6 @@ Each assignment is organized by folder name (Assignment 1 to Final Exam).
 ---
 
 🗂 **Total Assignments**: 6  
-📅 **Course Timeline**: Spring 2025  
+📅 **Course Timeline**: Spring 2024  
 🎓 **Instructor**: Dambar Uprety, Ph.D.
 📝 **Note**: Some in-class assignments are not included due to submission restrictions or format limitations.
